@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ayana Mambetova](https://up.htmlacademy.ru/htmlcss/27/user/1328263).
-* Наставник:Саяжан Онласын 
+* Наставник[{Саяжан Онласын ]https://htmlacademy.ru/profile/crepiks
 
 ---
 
